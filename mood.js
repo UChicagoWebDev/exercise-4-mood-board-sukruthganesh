@@ -29,7 +29,6 @@ function reqListener(request) {
 }
 
 function addImgtoBoard(url) {
-  console.log(url);
   let board = document.getElementById("board");
   const newDiv = document.createElement("div", { class: "savedImage" });
   img = new Image();
