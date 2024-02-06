@@ -53,3 +53,8 @@ any materials you consulted.
 - Use the DOM API to display related concept results to the user (1 point)
 - Clicking on a result image adds it to the user's mood board (2 points)
 - Clicking on a related concept runs a new search for that concept (1 point)
+
+Materials Consulted:
+1. https://www.geeksforgeeks.org/xmlhttprequest-responsetype-property/
+2. https://www.w3schools.com/jsref/met_node_appendchild.asp
+3. https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
